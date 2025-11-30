@@ -85,11 +85,11 @@ I'm thinking of extending this with:
 • Sentiment analysis on customer reviews
 • Predictive modeling for restaurant success
 • Geographic clustering analysis
-• Time-series analysis of rating trends
+• Time-series analysis of rating trends.
 
 ## Contact
 
 Dhruvkp07 - [LinkedIn](https://www.linkedin.com/in/dhruv-kumar-463b27290/) | [Email](kdk751666@gmail.com)
 
 ---
-*Exploring Bangalore's food scene, one data point at a time! 🍽️📊*
+*Exploring Bangalore's food scene, one data point at a time! 🍽️📊* .
