@@ -1,5 +1,6 @@
 # Zomato Restaurant Data Analysis - Bangalore
 
+
 ## What Got Me Started on This
 
 Ever wondered what makes some restaurants more popular than others in Bangalore? With so many dining options available, I was curious to dig into the data and see what patterns emerge from actual customer behavior on Zomato.
